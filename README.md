@@ -2,7 +2,8 @@
 ## 小程序交流
 
 识别图中二维码，入小程序学习交流群。（备注小程序学习）
-[https://github.com/shaoyangjiang/wechat-app-demo/blob/master/erweima.jpg](https://github.com/shaoyangjiang/wechat-app-demo/blob/master/erweima.jpg)
+![](https://github.com/shaoyangjiang/wechat-app-demo/blob/master/erweima.jpg)
+
 
 ## 目录
 
