@@ -1,6 +1,7 @@
 # 微信小程序开发资源汇总
-## 小程序交流
+## 微信小程序微信群交流
 ![](https://github.com/shaoyangjiang/wechat-app-demo/blob/master/erweima.jpg)
+
 识别图中二维码，进入小程序微信学习交流群。（备注小程序学习）
 
 ## 目录
